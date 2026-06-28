@@ -224,21 +224,6 @@ It is intended as a learning project for understanding how signals can be create
 
 ---
 
-## Possible Improvements
-
-Future improvements could include:
-
-* Refactoring the notebook into reusable Python functions
-* Adding a cleaner user interface
-* Replacing repeated input validation code with helper functions
-* Adding saved output files for generated plots
-* Supporting configurable sampling intervals
-* Adding Butterworth, Chebyshev, or FIR filters
-* Exporting generated time-series data to CSV
-* Adding unit tests for the signal and filter functions
-
----
-
 ## Author
 
 Created by Jayce Scott.

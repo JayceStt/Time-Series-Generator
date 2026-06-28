@@ -6,6 +6,9 @@ This project started as a Jupyter Notebook for experimenting with sinusoidal tim
 
 The app allows users to generate signals from multiple sinusoidal components, optionally add white noise, apply high-pass, low-pass, or band-pass filters, and compare the original and filtered signals visually.
 
+<img width="864" height="864" alt="Screenshot 2026-06-28 at 1 08 13 PM" src="https://github.com/user-attachments/assets/67f33fef-3fa6-4769-b1e1-5e67f439074d" />
+
+
 ---
 
 ## Overview
